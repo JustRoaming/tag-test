@@ -14,6 +14,6 @@ provider "azurerm" {
 
 # Create a resource group
 resource "azurerm_resource_group" "tagging_resource_group" {
-  name     = "my-rg-v3"
+  name     = "my-rg-v4"
   location = "UK South"
 }
